@@ -8,8 +8,8 @@ export type LinkItem = {
 
 // 보여주기용 더미 데이터
 export const links: LinkItem[] = [
-  { id: "github", title: "깃허브", url: "https://github.com/jygkim24", emoji: "❤️" },
-  { id: "blog", title: "블로그", url: "https://github.com/jygkim24", emoji: "✏️" },
+  { id: "github", title: "깃허브", url: "https://www.youtube.com/shorts/qkMZN1b-7h0", emoji: "❤️" },
+  { id: "blog", title: "블로그", url: "https://www.youtube.com/shorts/qkMZN1b-7h0", emoji: "✏️" },
   { id: "email", title: "이메일", url: "mailto:jj@gmail.com", emoji: "✉️" },
   { id: "youtube", title: "유튜브", url: "https://www.youtube.com/shorts/qkMZN1b-7h0", emoji: "▶️" },
 ];
